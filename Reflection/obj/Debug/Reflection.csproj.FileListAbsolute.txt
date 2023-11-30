@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-19 Assignment\Reflection\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-19 Assignment\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-19 Assignment\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-19 Assignment\Reflection\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-19 Assignment\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-19 Assignment\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-19 Assignment\Reflection\Reflection\obj\Debug\Reflection.pdb
